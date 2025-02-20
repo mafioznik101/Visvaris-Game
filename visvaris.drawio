@@ -44,8 +44,14 @@
         <mxCell id="0eDE97H2XJ0ATBzzC3DE-2" value="apskatīt klasi" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0eDE97H2XJ0ATBzzC3DE-4" value="&quot;Šodien ir mierīga, klusa diena 205.kabinetā. " style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="760" width="250" height="120" as="geometry" />
+        <mxCell id="0eDE97H2XJ0ATBzzC3DE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0eDE97H2XJ0ATBzzC3DE-4" target="0eDE97H2XJ0ATBzzC3DE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0eDE97H2XJ0ATBzzC3DE-4" value="&quot;205 kabinetu piepilda datoru dunēšana, skolēni koncentrējas, pirksti strauji kustas pa klaviatūru. Telpas tālākajā stūrī Gustavs Vergmanio ir noliecies virs sava ekrāna, un viņa seju apgaismo koda līniju spīdums. Viņa uzacis nedaudz saraucas, bet pirksti turpina savu deju, katra koda rinda ir izaicinājums, ko viņš pieņem ar klusu apņēmību.&quot;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="760" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0eDE97H2XJ0ATBzzC3DE-6" value="&quot;Blakus viņam Geralts Feja ir aizrāvies ar savu projektu. Viņa priekšā uz ekrāna blenž sarežģītas komandas, bet viņa uzmanība nemitīgi nenovīdina. Reizēm viņš ietur pauzi, lai pielabotu brilles, un tad ātri turpinot rakstīt, it kā kods plūstu dabiski caur viņu.&quot;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="960" width="300" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
